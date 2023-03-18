@@ -15,7 +15,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.android.car.calendar"
+        applicationId "com.android.car.calendar2"
         minSdk 28
         targetSdk 33
         versionCode 1
